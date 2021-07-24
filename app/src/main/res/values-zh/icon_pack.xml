@@ -21,39 +21,181 @@
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
         <!-- A -->
+        <item>Acfun</item>
+        <item>Adobe Acrobat Reader</item>
+        <item>支付宝</item>
+        <item>应用市场</item>
         <!-- B -->
+        <item>百词斩</item>
+        <item>百度</item>
+        <item>百度网盘</item>
+        <item>哔哩哔哩</item>
+        <item>哔哩哔哩概念版</item>
+        <item>必应</item>
+        <item>百度输入法</item>
+        <item>百度地图</item>
+        <item>浏览器</item>
+        <item>百度贴吧</item>
+        <item>中国建设银行</item>
+        <item>黄油相机</item>
+        <item>百度文库</item>
         <!-- C -->
         <item>日历</item>
+        <item>计算器</item>
+        <item>相机</item>
+        <item>相机360</item>
+        <item>Candy Crush Saga</item>
+        <item>中国银行</item>
+        <item>Google Chrome</item>
+        <item>Google Chrome Beta</item>
+        <item>时钟</item>
+        <item>指南针</item>
+        <item>通讯录</item>
+        <item>酷安</item>
         <!-- D -->
+        <item>文件管理</item>
+        <item>Dropbox</item>
         <!-- E -->
+        <item>Ebay</item>
+        <item>饿了么</item>
+        <item>邮件</item>
+        <item>开眼</item>
         <!-- F -->
+        <item>Facebook</item>
+        <item>中国农业银行</item>
+        <item>查找手机</item>
+        <item>Mozilla Firefox</item>
+        <item>58同城</item>
+        <item>收音机</item>
         <!-- G -->
+        <item>相册</item>
+        <item>Gboard</item>
+        <item>Google日历</item>
+        <item>Google时钟</item>
+        <item>Google云端硬盘</item>
+        <item>Google地球</item>
+        <item>几何天气</item>
+        <item>Gmail</item>
+        <item>Google地图</item>
+        <item>Google设置</item>
+        <item>Google</item>
+        <item>Google Play游戏</item>
+        <item>Google照片</item>
+        <item>Google拼音输入法</item>
+        <item>Google Play</item>
+        <item>Google Play音乐</item>
+        <item>绿色守护</item>
+        <item>Google翻译</item>
+        <item>Google文字转语音</item>
+        <item>Google电影与视频</item>
         <!-- H -->
+        <item>华为文件管理</item>
+        <item>好看视频</item>
         <!-- I -->
+        <item>讯飞输入法</item>
+        <item>Imessage</item>
+        <item>Ingress</item>
+        <item>Instagram</item>
+        <item>爱奇艺</item>
         <!-- J -->
+        <item>京东</item>
+        <item>京东金融</item>
         <!-- K -->
+        <item>Kindle阅读</item>
+        <item>快手</item>
+        <item>酷狗音乐</item>
+        <item>酷我音乐</item>
         <!-- L -->
         <!-- M -->
+        <item>放大镜</item>
+        <item>Minecraft（国际）</item>
+        <item>小米商城</item>
+        <item>米家</item>
+        <item>Microsoft Office</item>
+        <item>铁路12306</item>
+        <item>美团外卖</item>
+        <item>美图秀秀</item>
+        <item>音乐</item>
         <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
+        <item>网易云音乐</item>
+        <item>备忘录</item>
         <!-- O -->
+        <item>Ofo小黄车</item>
+        <item>Microsoft Onedrive</item>
         <!-- P -->
+        <item>Paypal</item>
+        <item>电话</item>
+        <item>拼多多</item>
+        <item>Pinterest</item>
         <!-- Q -->
+        <item>QQ输入法</item>
+        <item>QQ</item>
+        <item>QQ浏览器</item>
+        <item>QQ游戏</item>
+        <item>QQ邮件</item>
+        <item>QQ音乐</item>
+        <item>QQ阅读</item>
+        <item>QQ同步助手</item>
+        <item>夸克</item>
         <!-- R -->
+        <item>录音机</item>
+        <item>RE文件管理</item>
         <!-- S -->
+        <item>安全</item>
+        <item>设置</item>
+        <item>顺丰速运</item>
+        <item>Sim卡</item>
+        <item>搜狗输入法</item>
+        <item>锤子桌面</item>
+        <item>短信</item>
+        <item>Snapseed</item>
+        <item>搜狗地图</item>
+        <item>搜狗搜索</item>
+        <item>Spotify</item>
         <!-- T -->
+        <item>淘宝</item>
+        <item>Taptap</item>
+        <item>个人所得税</item>
+        <item>腾讯课堂</item>
+        <item>抖音短视频</item>
+        <item>天猫</item>
+        <item>腾讯地图</item>
+        <item>腾讯新闻</item>
+        <item>QQ飞车</item>
+        <item>腾讯视频</item>
         <!-- U -->
+        <item>UC浏览器</item>
+        <item>云闪付</item>
         <!-- V -->
+        <item>视频</item>
+        <item>语音助手</item>
         <!-- W -->
+        <item>钱包</item>
+        <item>天气</item>
+        <item>微信</item>
+        <item>微博</item>
+        <item>微视</item>
+        <item>西瓜视频</item>
+        <item>WPS</item>
+        <item>王者荣耀</item>
         <!-- X -->
+        <item>虾米FM</item>
+        <item>闲鱼</item>
+        <item>迅雷</item>
         <!-- Y -->
+        <item>移动宽带</item>
+        <item>有道词典</item>
+        <item>网易云课堂</item>
+        <item>有道云笔记</item>
+        <item>有道翻译官</item>
+        <item>优酷</item>
+        <item>Youtube</item>
+        <item>猿辅导</item>
+        <item>小猿搜题</item>
+        <item>猿题库</item>
+        <item>应用宝</item>
         <!-- Z -->
+        <item>知乎</item>
     </string-array>
 
 </resources>

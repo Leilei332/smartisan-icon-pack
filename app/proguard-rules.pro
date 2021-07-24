@@ -23,8 +23,9 @@
 -keep class net.sourceforge.pinyin4j.** { *; }
 
 # for OkHttp
-# -dontwarn okhttp3.**
+-dontwarn okhttp3.**
 -dontwarn okio.**
+-dontwarn retrofit2.**
 
 # for Retrofit
 # Platform calls Class.forName on types which do not exist on Android to determine platform.

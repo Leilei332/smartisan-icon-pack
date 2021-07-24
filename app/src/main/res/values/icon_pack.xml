@@ -21,89 +21,378 @@
     <!-- Names like "Calendar", "500px", "camera_360" are not allowed or recommended. -->
     <string-array name="icons" translatable="false">
         <!-- A -->
+        <item>acfun</item>
+        <item>adobereader</item>
+        <item>alipay</item>
+        <item>appmarket</item>
         <!-- B -->
+        <item>baicizhan</item>
+        <item>baidu</item>
+        <item>baidunetdisk</item>
+        <item>bilibili</item>
+        <item>bilibiliblue</item>
+        <item>bing</item>
+        <item>binput</item>
+        <item>bmaps</item>
+        <item>browser</item>
+        <item>btieba</item>
+        <item>buildbank</item>
+        <item>buttercamera</item>
+        <item>bwenku</item>
         <!-- C -->
         <item>calendar</item>
+        <item>calculator</item>
+        <item>camera</item>
+        <item>camera360</item>
+        <item>candycrash</item>
+        <item>chinabank</item>
+        <item>chrome</item>
+        <item>chromebeta</item>
+        <item>clock</item>
+        <item>compass</item>
+        <item>contacts</item>
+        <item>coolapk</item>
         <!-- D -->
+        <item>documentsui</item>
+        <item>dropbox</item>
         <!-- E -->
+        <item>ebay</item>
+        <item>eleme</item>
+        <item>email</item>
+        <item>eyepetizer</item>
         <!-- F -->
+        <item>facebook</item>
+        <item>farmbank</item>
+        <item>findmyphone</item>
+        <item>firefox</item>
+        <item>fiveeight</item>
+        <item>fmradio</item>
         <!-- G -->
+        <item>gallery</item>
+        <item>gboard</item>
+        <item>gcalendar</item>
+        <item>gclock</item>
+        <item>gdrive</item>
+        <item>gearth</item>
+        <item>geoweather</item>
+        <item>gmail</item>
+        <item>gmaps</item>
+        <item>gmssettings</item>
+        <item>google</item>
+        <item>gpgames</item>
+        <item>gphotos</item>
+        <item>gpinyin</item>
+        <item>gplay</item>
+        <item>gpmusic</item>
+        <item>greenify</item>
+        <item>gtranslate</item>
+        <item>gtts</item>
+        <item>gvideos</item>
         <!-- H -->
+        <item>hdocumentsui</item>
+        <item>hkvideo</item>
         <!-- I -->
+        <item>iflyinput</item>
+        <item>ims</item>
+        <item>ingress</item>
+        <item>instagram</item>
+        <item>iqiyi</item>
         <!-- J -->
+        <item>jd</item>
+        <item>jdfinancial</item>
         <!-- K -->
+        <item>kindlefc</item>
+        <item>kuaishou</item>
+        <item>kuwomusic</item>
+        <item>kugo</item>
         <!-- L -->
         <!-- M -->
+        <item>magnifier</item>
+        <item>minecraft</item>
+        <item>mshop</item>
+        <item>msmarthome</item>
+        <item>msoffice</item>
+        <item>mt12306</item>
+        <item>mtwaimai</item>
+        <item>mtxx</item>
+        <item>music</item>
         <!-- N -->
-        <item>nano_icon_pack</item>
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
+        <item>ncloudmusic</item>
+        <item>note</item>
         <!-- O -->
+        <item>ofo</item>
+        <item>onedrive</item>
         <!-- P -->
+        <item>paypal</item>
+        <item>phone</item>
+        <item>pinduoduo</item>
+        <item>pinterest</item>
         <!-- Q -->
+        <item>qinput</item>
+        <item>qq</item>
+        <item>qqbrowser</item>
+        <item>qqgame</item>
+        <item>qqmail</item>
+        <item>qqmusic</item>
+        <item>qqread</item>
+        <item>qqsync</item>
+        <item>quark</item>
         <!-- R -->
+        <item>record</item>
+        <item>rexplorer</item>
         <!-- S -->
+        <item>security</item>
+        <item>settings</item>
+        <item>sf</item>
+        <item>simcard</item>
+        <item>sinput</item>
+        <item>smartlaunch</item>
+        <item>sms</item>
+        <item>snapseed</item>
+        <item>sogoumaps</item>
+        <item>sogousearch</item>
+        <item>spotify</item>
         <!-- T -->
+        <item>taobao</item>
+        <item>taptap</item>
+        <item>tax</item>
+        <item>tedu</item>
+        <item>tiktok</item>
+        <item>tmall</item>
+        <item>tmap</item>
+        <item>tnews</item>
+        <item>tsm</item>
+        <item>tvideo</item>
         <!-- U -->
+        <item>uc</item>
+        <item>unionpay</item>
         <!-- V -->
+        <item>video</item>
+        <item>voiceassis</item>
         <!-- W -->
+        <item>wallet</item>
+        <item>weather</item>
+        <item>wechat</item>
+        <item>weibo</item>
+        <item>weishi</item>
+        <item>wmvideo</item>
+        <item>wps</item>
+        <item>wzry</item>
         <!-- X -->
+        <item>xiamifm</item>
+        <item>xianyu</item>
+        <item>xunlei</item>
         <!-- Y -->
+        <item>yd10086</item>
+        <item>yddict</item>
+        <item>ydedu</item>
+        <item>ydnote</item>
+        <item>ydtranslate</item>
+        <item>youku</item>
+        <item>youtube</item>
+        <item>yuanfudao</item>
+        <item>yuansolar</item>
+        <item>yuantiku</item>
+        <item>yyb</item>
         <!-- Z -->
+        <item>zhihu</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to collect app name list. -->
     <string-array name="icon_labels">
+
         <!-- A -->
+        <item>Acfun</item>
+        <item>Adobe Acrobat Reader</item>
+        <item>Alipay</item>
+        <item>Appmarket</item>
         <!-- B -->
+        <item>Baicizhan</item>
+        <item>Baidu</item>
+        <item>Baidunetdisk</item>
+        <item>Bilibili</item>
+        <item>Bilibili Blue Edition</item>
+        <item>Bing</item>
+        <item>Baidu Input</item>
+        <item>Baidu Maps</item>
+        <item>Browser</item>
+        <item>Baidu Tieba</item>
+        <item>China Construction Bank</item>
+        <item>Butter Camera</item>
+        <item>Baidu Wenku</item>
         <!-- C -->
         <item>Calendar</item>
+        <item>Calculator</item>
+        <item>Camera</item>
+        <item>Camera 360</item>
+        <item>Candy Crush Saga</item>
+        <item>Bank of china</item>
+        <item>Chrome</item>
+        <item>Chrome Beta</item>
+        <item>Clock</item>
+        <item>Compass</item>
+        <item>Contacts</item>
+        <item>Coolapk</item>
         <!-- D -->
+        <item>Documentsui</item>
+        <item>Dropbox</item>
         <!-- E -->
+        <item>Ebay</item>
+        <item>Eleme</item>
+        <item>Email</item>
+        <item>Eyepetizer</item>
         <!-- F -->
+        <item>Facebook</item>
+        <item>AGRICULTURAL BANK OF CHINA</item>
+        <item>Findmyphone</item>
+        <item>Firefox</item>
+        <item>Fiveeight</item>
+        <item>Fmradio</item>
         <!-- G -->
+        <item>Gallery</item>
+        <item>Gboard</item>
+        <item>Google Calendar</item>
+        <item>Google Clock</item>
+        <item>Google Drive</item>
+        <item>Google Earth</item>
+        <item>Geometric Weather</item>
+        <item>Gmail</item>
+        <item>Google Maps</item>
+        <item>Google Play Service Settings</item>
+        <item>Google</item>
+        <item>Google Play Games</item>
+        <item>Google Photos</item>
+        <item>Google Pinyin Input</item>
+        <item>Google Play</item>
+        <item>Google Play Music</item>
+        <item>Greenify</item>
+        <item>Google Translate</item>
+        <item>Google TTS</item>
+        <item>Google Play Movies</item>
         <!-- H -->
+        <item>Huawei Documentsui</item>
+        <item>Haokan Video</item>
         <!-- I -->
+        <item>Iflytek Input</item>
+        <item>Imessage</item>
+        <item>Ingress</item>
+        <item>Instagram</item>
+        <item>Iqiyi</item>
         <!-- J -->
+        <item>Jingdong</item>
+        <item>Jingdong Financial</item>
         <!-- K -->
+        <item>Kindle Read</item>
+        <item>Kuaishou</item>
+        <item>Kugo Music</item>
+        <item>Kuwo Music</item>
         <!-- L -->
         <!-- M -->
+        <item>Magnifier</item>
+        <item>Minecraft</item>
+        <item>Miui Shop</item>
+        <item>Miui Smarthome</item>
+        <item>Microsoft Office</item>
+        <item>Mobile Tickets 12306</item>
+        <item>Meituanwaimai</item>
+        <item>Meituxiuxiu</item>
+        <item>Music</item>
         <!-- N -->
-        <item>NanoIconPack (by @Childish)</item>
-        <item>NanoIconPack (by @Markuss)</item>
-        <item>NanoIconPack (by @pandecheng)</item>
-        <item>NanoIconPack (by @atony)</item>
-        <item>NanoIconPack (by @可以and不行)</item>
-        <item>NanoIconPack (by @ArchieLiu)</item>
-        <item>NanoIconPack (by @lnm011223)</item>
+        <item>Netease Cloud Music</item>
+        <item>Note</item>
         <!-- O -->
+        <item>Ofo</item>
+        <item>Onedrive</item>
         <!-- P -->
+        <item>Paypal</item>
+        <item>Phone</item>
+        <item>Pinduoduo</item>
+        <item>Pinterest</item>
         <!-- Q -->
+        <item>QQ Input</item>
+        <item>QQ</item>
+        <item>QQ Browser</item>
+        <item>QQ Game</item>
+        <item>QQ Mail</item>
+        <item>QQ Music</item>
+        <item>QQ Read</item>
+        <item>QQ Sync Helper</item>
+        <item>Quark Browser</item>
         <!-- R -->
+        <item>Record</item>
+        <item>Root Explorer</item>
         <!-- S -->
+        <item>Security</item>
+        <item>Settings</item>
+        <item>Shunfeng</item>
+        <item>Simcard</item>
+        <item>Sogou Input</item>
+        <item>Smartisan Launcher</item>
+        <item>Sms</item>
+        <item>Snapseed</item>
+        <item>Sogou Maps</item>
+        <item>Sogou Search</item>
+        <item>Spotify</item>
         <!-- T -->
+        <item>Taobao</item>
+        <item>Taptap</item>
+        <item>Personal Taxs</item>
+        <item>Tencent Edu</item>
+        <item>Tiktok</item>
+        <item>Tmall</item>
+        <item>Tencent Maps</item>
+        <item>Tencent News</item>
+        <item>Tencent Speed Mobile</item>
+        <item>Tencent Video</item>
         <!-- U -->
+        <item>UC Browser</item>
+        <item>Unionpay</item>
         <!-- V -->
+        <item>Video</item>
+        <item>Voice Assistant</item>
         <!-- W -->
+        <item>Wallet</item>
+        <item>Weather</item>
+        <item>Wechat</item>
+        <item>Weibo</item>
+        <item>Weishi</item>
+        <item>Watermelon Video</item>
+        <item>WPS</item>
+        <item>Wangzherongyao</item>
         <!-- X -->
+        <item>Xiami FM</item>
+        <item>Xianyu</item>
+        <item>Xunlei</item>
         <!-- Y -->
+        <item>Yidong</item>
+        <item>Youdao Dict</item>
+        <item>Netease Cloud Edu</item>
+        <item>Youdao Note</item>
+        <item>Youdao Translator</item>
+        <item>Youku</item>
+        <item>Youtube</item>
+        <item>Yuanfudao</item>
+        <item>Yuansolar</item>
+        <item>Yuantiku</item>
+        <item>Yingyongbao</item>
         <!-- Z -->
+        <item>Zhihu</item>
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>nano_icon_pack_1</item>
-        <item>nano_icon_pack_2</item>
-        <item>nano_icon_pack_3</item>
-        <item>nano_icon_pack_4</item>
-        <item>nano_icon_pack_5</item>
-        <item>nano_icon_pack_6</item>
+        <item>bmaps</item>
+        <item>btieba</item>
+        <item>bwenku</item>
+        <item>ebay</item>
+        <item>iflyinput</item>
+        <item>onedrive</item>
+        <item>qqbrowser</item>
+        <item>qqgame</item>
+        <item>uc</item>
+        <item>wallet</item>
     </string-array>
 
 </resources>
