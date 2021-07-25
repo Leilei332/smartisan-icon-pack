@@ -63,9 +63,11 @@
         <!-- F -->
         <item>Facebook</item>
         <item>中国农业银行</item>
-        <item>查找手机</item>
+        <item>查找手机（魅族）</item>
+        <item>Fing</item>
         <item>Mozilla Firefox</item>
         <item>58同城</item>
+        <item>手电筒</item>
         <item>收音机</item>
         <!-- G -->
         <item>相册</item>
@@ -82,7 +84,6 @@
         <item>Google Play游戏</item>
         <item>Google照片</item>
         <item>Google拼音输入法</item>
-        <item>Google Play</item>
         <item>Google Play音乐</item>
         <item>绿色守护</item>
         <item>Google翻译</item>
@@ -100,6 +101,7 @@
         <!-- J -->
         <item>京东</item>
         <item>京东金融</item>
+        <item>简书</item>
         <!-- K -->
         <item>Kindle阅读</item>
         <item>快手</item>
@@ -109,6 +111,7 @@
         <!-- M -->
         <item>放大镜</item>
         <item>Minecraft（国际）</item>
+        <item>每日优鲜</item>
         <item>小米商城</item>
         <item>米家</item>
         <item>Microsoft Office</item>
@@ -119,6 +122,7 @@
         <!-- N -->
         <item>网易云音乐</item>
         <item>备忘录</item>
+        <item>坚果云</item>
         <!-- O -->
         <item>Ofo小黄车</item>
         <item>Microsoft Onedrive</item>
@@ -152,6 +156,7 @@
         <item>搜狗地图</item>
         <item>搜狗搜索</item>
         <item>Spotify</item>
+        <item>少数派</item>
         <!-- T -->
         <item>淘宝</item>
         <item>Taptap</item>
@@ -163,10 +168,12 @@
         <item>腾讯新闻</item>
         <item>QQ飞车</item>
         <item>腾讯视频</item>
+        <item>Twitter</item>
         <!-- U -->
         <item>UC浏览器</item>
         <item>云闪付</item>
         <!-- V -->
+        <item>Google Play</item>
         <item>视频</item>
         <item>语音助手</item>
         <!-- W -->
@@ -175,6 +182,7 @@
         <item>微信</item>
         <item>微博</item>
         <item>微视</item>
+        <item>微云</item>
         <item>西瓜视频</item>
         <item>WPS</item>
         <item>王者荣耀</item>

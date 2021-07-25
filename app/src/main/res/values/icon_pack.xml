@@ -22,7 +22,7 @@
     <string-array name="icons" translatable="false">
         <!-- A -->
         <item>acfun</item>
-        <item>adobereader</item>
+        <item>adobe-reader</item>
         <item>alipay</item>
         <item>appmarket</item>
         <!-- B -->
@@ -41,14 +41,16 @@
         <item>bwenku</item>
         <!-- C -->
         <item>calendar</item>
+        <item>calendar-google</item>
         <item>calculator</item>
         <item>camera</item>
         <item>camera360</item>
         <item>candycrash</item>
         <item>chinabank</item>
         <item>chrome</item>
-        <item>chromebeta</item>
+        <item>chrome-beta</item>
         <item>clock</item>
+        <item>clock-google</item>
         <item>compass</item>
         <item>contacts</item>
         <item>coolapk</item>
@@ -63,15 +65,15 @@
         <!-- F -->
         <item>facebook</item>
         <item>farmbank</item>
-        <item>findmyphone</item>
+        <item>findmyphone-meizu</item>
+        <item>fing</item>
         <item>firefox</item>
         <item>fiveeight</item>
+        <item>flashlight</item>
         <item>fmradio</item>
         <!-- G -->
         <item>gallery</item>
         <item>gboard</item>
-        <item>gcalendar</item>
-        <item>gclock</item>
         <item>gdrive</item>
         <item>gearth</item>
         <item>geoweather</item>
@@ -82,7 +84,6 @@
         <item>gpgames</item>
         <item>gphotos</item>
         <item>gpinyin</item>
-        <item>gplay</item>
         <item>gpmusic</item>
         <item>greenify</item>
         <item>gtranslate</item>
@@ -99,7 +100,8 @@
         <item>iqiyi</item>
         <!-- J -->
         <item>jd</item>
-        <item>jdfinancial</item>
+        <item>jdjr</item>
+        <item>jianshu</item>
         <!-- K -->
         <item>kindlefc</item>
         <item>kuaishou</item>
@@ -109,8 +111,9 @@
         <!-- M -->
         <item>magnifier</item>
         <item>minecraft</item>
-        <item>mshop</item>
-        <item>msmarthome</item>
+        <item>missfresh</item>
+        <item>miui-shop</item>
+        <item>miui-smarthome</item>
         <item>msoffice</item>
         <item>mt12306</item>
         <item>mtwaimai</item>
@@ -119,6 +122,7 @@
         <!-- N -->
         <item>ncloudmusic</item>
         <item>note</item>
+        <item>nutstore</item>
         <!-- O -->
         <item>ofo</item>
         <item>onedrive</item>
@@ -146,12 +150,14 @@
         <item>sf</item>
         <item>simcard</item>
         <item>sinput</item>
+        <item>smartisan-bbs</item>
         <item>smartlaunch</item>
         <item>sms</item>
         <item>snapseed</item>
         <item>sogoumaps</item>
         <item>sogousearch</item>
         <item>spotify</item>
+        <item>sspai</item>
         <!-- T -->
         <item>taobao</item>
         <item>taptap</item>
@@ -162,11 +168,13 @@
         <item>tmap</item>
         <item>tnews</item>
         <item>tsm</item>
-        <item>tvideo</item>
+        <item>tencent-video</item>
+        <item>twitter</item>
         <!-- U -->
         <item>uc</item>
         <item>unionpay</item>
         <!-- V -->
+        <item>vending</item>
         <item>video</item>
         <item>voiceassis</item>
         <!-- W -->
@@ -175,6 +183,7 @@
         <item>wechat</item>
         <item>weibo</item>
         <item>weishi</item>
+        <item>weiyun</item>
         <item>wmvideo</item>
         <item>wps</item>
         <item>wzry</item>
@@ -212,7 +221,7 @@
         <item>Baidu</item>
         <item>Baidunetdisk</item>
         <item>Bilibili</item>
-        <item>Bilibili Blue Edition</item>
+        <item>Bilibili ~</item>
         <item>Bing</item>
         <item>Baidu Input</item>
         <item>Baidu Maps</item>
@@ -245,9 +254,11 @@
         <!-- F -->
         <item>Facebook</item>
         <item>AGRICULTURAL BANK OF CHINA</item>
-        <item>Findmyphone</item>
+        <item>Findmyphone(meizu)</item>
+        <item>Fing</item>
         <item>Firefox</item>
         <item>Fiveeight</item>
+        <item>Flahlight</item>
         <item>Fmradio</item>
         <!-- G -->
         <item>Gallery</item>
@@ -264,7 +275,6 @@
         <item>Google Play Games</item>
         <item>Google Photos</item>
         <item>Google Pinyin Input</item>
-        <item>Google Play</item>
         <item>Google Play Music</item>
         <item>Greenify</item>
         <item>Google Translate</item>
@@ -282,6 +292,7 @@
         <!-- J -->
         <item>Jingdong</item>
         <item>Jingdong Financial</item>
+        <item>Jianshu</item>
         <!-- K -->
         <item>Kindle Read</item>
         <item>Kuaishou</item>
@@ -291,6 +302,7 @@
         <!-- M -->
         <item>Magnifier</item>
         <item>Minecraft</item>
+        <item>Missfresh</item>
         <item>Miui Shop</item>
         <item>Miui Smarthome</item>
         <item>Microsoft Office</item>
@@ -301,6 +313,7 @@
         <!-- N -->
         <item>Netease Cloud Music</item>
         <item>Note</item>
+        <item>Nutstore</item>
         <!-- O -->
         <item>Ofo</item>
         <item>Onedrive</item>
@@ -334,6 +347,7 @@
         <item>Sogou Maps</item>
         <item>Sogou Search</item>
         <item>Spotify</item>
+        <item>Sspai</item>
         <!-- T -->
         <item>Taobao</item>
         <item>Taptap</item>
@@ -345,10 +359,12 @@
         <item>Tencent News</item>
         <item>Tencent Speed Mobile</item>
         <item>Tencent Video</item>
+        <item>Twitter</item>
         <!-- U -->
         <item>UC Browser</item>
         <item>Unionpay</item>
         <!-- V -->
+        <item>Google Play</item>
         <item>Video</item>
         <item>Voice Assistant</item>
         <!-- W -->
@@ -356,10 +372,11 @@
         <item>Weather</item>
         <item>Wechat</item>
         <item>Weibo</item>
-        <item>Weishi</item>
-        <item>Watermelon Video</item>
+        <item>微视</item>
+        <item>微云</item>
+        <item>Xigua Video</item>
         <item>WPS</item>
-        <item>Wangzherongyao</item>
+        <item>王者荣耀</item>
         <!-- X -->
         <item>Xiami FM</item>
         <item>Xianyu</item>

@@ -95,7 +95,7 @@
         drawable="acfun"/>
     <item
         component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
-        drawable="adobereader"/>
+        drawable="adobe-reader"/>
     <item
         component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
         drawable="alipay"/>
@@ -149,7 +149,7 @@
         drawable="calculator"/>
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="gcalendar" />
+        drawable="calendar-google" />
     <item
         component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="calendar" />
@@ -242,13 +242,13 @@
         drawable="chrome"/>
     <item
         component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}"
-        drawable="chromebeta"/>
+        drawable="chrome-beta"/>
     <item
         component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}"
         drawable="clock"/>
     <item
         component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
-        drawable="gclock"/>
+        drawable="clock-google"/>
     <item
         component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}"
         drawable="compass"/>
@@ -260,7 +260,7 @@
         drawable="coolapk"/>
     <item
         component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
-        drawable="hdocumentsui"/>
+        drawable="documentsui-huawei"/>
     <item
         component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}"
         drawable="documentsui"/>
@@ -285,9 +285,6 @@
     <item
         component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}"
         drawable="farmbank"/>
-    <item
-        component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.findmyphone.ui.findphone.FindMyPhoneActivity}"
-        drawable="findmyphone"/>
     <item
         component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
         drawable="firefox"/>
@@ -341,7 +338,7 @@
         drawable="gpinyin"/>
     <item
         component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
-        drawable="gplay"/>
+        drawable="vending"/>
     <item
         component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
         drawable="gpmusic"/>
@@ -380,7 +377,7 @@
         drawable="jd"/>
     <item
         component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}"
-        drawable="jdfinancial"/>
+        drawable="jdjr"/>
     <item
         component="ComponentInfo{com.amazon.kindlefc/com.amazon.kindle.UpgradePage}"
         drawable="kindlefc"/>
@@ -401,10 +398,10 @@
         drawable="minecraft"/>
     <item
         component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}"
-        drawable="mshop"/>
+        drawable="miui-shop"/>
     <item
         component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
-        drawable="msmarthome"/>
+        drawable="miui-smarthome"/>
     <item
         component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="msoffice"/>
