@@ -22,7 +22,7 @@
     <string-array name="icons" translatable="false">
         <!-- A -->
         <item>acfun</item>
-        <item>adobe-reader</item>
+        <item>adobe_reader</item>
         <item>alipay</item>
         <item>appmarket</item>
         <!-- B -->
@@ -41,7 +41,7 @@
         <item>bwenku</item>
         <!-- C -->
         <item>calendar</item>
-        <item>calendar-google</item>
+        <item>calendar_google</item>
         <item>calculator</item>
         <item>camera</item>
         <item>camera360</item>
@@ -50,7 +50,7 @@
         <item>chrome</item>
         <item>chrome-beta</item>
         <item>clock</item>
-        <item>clock-google</item>
+        <item>clock_google</item>
         <item>compass</item>
         <item>contacts</item>
         <item>coolapk</item>
@@ -65,7 +65,7 @@
         <!-- F -->
         <item>facebook</item>
         <item>farmbank</item>
-        <item>findmyphone-meizu</item>
+        <item>findmyphone_meizu</item>
         <item>fing</item>
         <item>firefox</item>
         <item>fiveeight</item>
@@ -112,8 +112,8 @@
         <item>magnifier</item>
         <item>minecraft</item>
         <item>missfresh</item>
-        <item>miui-shop</item>
-        <item>miui-smarthome</item>
+        <item>miui_shop</item>
+        <item>miui_smarthome</item>
         <item>msoffice</item>
         <item>mt12306</item>
         <item>mtwaimai</item>
@@ -168,7 +168,7 @@
         <item>tmap</item>
         <item>tnews</item>
         <item>tsm</item>
-        <item>tencent-video</item>
+        <item>tencent_video</item>
         <item>twitter</item>
         <!-- U -->
         <item>uc</item>
