@@ -48,7 +48,7 @@
         <item>candycrash</item>
         <item>chinabank</item>
         <item>chrome</item>
-        <item>chrome-beta</item>
+        <item>chrome_beta</item>
         <item>clock</item>
         <item>clock_google</item>
         <item>compass</item>
@@ -150,7 +150,7 @@
         <item>sf</item>
         <item>simcard</item>
         <item>sinput</item>
-        <item>smartisan-bbs</item>
+        <item>smartisan_bbs</item>
         <item>smartlaunch</item>
         <item>sms</item>
         <item>snapseed</item>
@@ -162,11 +162,11 @@
         <item>taobao</item>
         <item>taptap</item>
         <item>tax</item>
-        <item>tedu</item>
+        <item>tencent_edu</item>
         <item>tiktok</item>
         <item>tmall</item>
-        <item>tmap</item>
-        <item>tnews</item>
+        <item>tencent_map</item>
+        <item>tencent_news</item>
         <item>tsm</item>
         <item>tencent_video</item>
         <item>twitter</item>
@@ -175,6 +175,7 @@
         <item>unionpay</item>
         <!-- V -->
         <item>vending</item>
+        <item>via</item>
         <item>video</item>
         <item>voiceassis</item>
         <!-- W -->
@@ -232,6 +233,7 @@
         <item>Baidu Wenku</item>
         <!-- C -->
         <item>Calendar</item>
+        <item>Google Calendar</item>
         <item>Calculator</item>
         <item>Camera</item>
         <item>Camera 360</item>
@@ -240,6 +242,7 @@
         <item>Chrome</item>
         <item>Chrome Beta</item>
         <item>Clock</item>
+        <item>Clock(Google)</item>
         <item>Compass</item>
         <item>Contacts</item>
         <item>Coolapk</item>
@@ -263,8 +266,6 @@
         <!-- G -->
         <item>Gallery</item>
         <item>Gboard</item>
-        <item>Google Calendar</item>
-        <item>Google Clock</item>
         <item>Google Drive</item>
         <item>Google Earth</item>
         <item>Geometric Weather</item>
@@ -341,6 +342,7 @@
         <item>Shunfeng</item>
         <item>Simcard</item>
         <item>Sogou Input</item>
+        <item>Smartisan BBS</item>
         <item>Smartisan Launcher</item>
         <item>Sms</item>
         <item>Snapseed</item>
@@ -365,6 +367,7 @@
         <item>Unionpay</item>
         <!-- V -->
         <item>Google Play</item>
+        <item>Via</item>
         <item>Video</item>
         <item>Voice Assistant</item>
         <!-- W -->

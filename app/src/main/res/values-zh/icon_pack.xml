@@ -41,6 +41,7 @@
         <item>百度文库</item>
         <!-- C -->
         <item>日历</item>
+        <item>Google日历</item>
         <item>计算器</item>
         <item>相机</item>
         <item>相机360</item>
@@ -49,6 +50,7 @@
         <item>Google Chrome</item>
         <item>Google Chrome Beta</item>
         <item>时钟</item>
+        <item>时钟（Google）</item>
         <item>指南针</item>
         <item>通讯录</item>
         <item>酷安</item>
@@ -72,8 +74,6 @@
         <!-- G -->
         <item>相册</item>
         <item>Gboard</item>
-        <item>Google日历</item>
-        <item>Google时钟</item>
         <item>Google云端硬盘</item>
         <item>Google地球</item>
         <item>几何天气</item>
@@ -150,6 +150,7 @@
         <item>顺丰速运</item>
         <item>Sim卡</item>
         <item>搜狗输入法</item>
+        <item>锤子论坛</item>
         <item>锤子桌面</item>
         <item>短信</item>
         <item>Snapseed</item>
@@ -174,6 +175,7 @@
         <item>云闪付</item>
         <!-- V -->
         <item>Google Play</item>
+        <item>Via</item>
         <item>视频</item>
         <item>语音助手</item>
         <!-- W -->
