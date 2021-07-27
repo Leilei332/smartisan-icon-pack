@@ -131,6 +131,8 @@
         <item>phone</item>
         <item>pinduoduo</item>
         <item>pinterest</item>
+        <item>pixiv</item>
+        <item>plex</item>
         <!-- Q -->
         <item>qinput</item>
         <item>qq</item>
@@ -150,6 +152,7 @@
         <item>sf</item>
         <item>simcard</item>
         <item>sinput</item>
+        <item>skype</item>
         <item>smartisan_bbs</item>
         <item>smartlaunch</item>
         <item>sms</item>
@@ -175,7 +178,6 @@
         <item>unionpay</item>
         <!-- V -->
         <item>vending</item>
-        <item>via</item>
         <item>video</item>
         <item>voiceassis</item>
         <!-- W -->
@@ -186,6 +188,7 @@
         <item>weishi</item>
         <item>weiyun</item>
         <item>wmvideo</item>
+        <item>wmvideo_old</item>
         <item>wps</item>
         <item>wzry</item>
         <!-- X -->
@@ -323,6 +326,8 @@
         <item>Phone</item>
         <item>Pinduoduo</item>
         <item>Pinterest</item>
+        <item>Pixiv</item>
+        <item>Plex</item>
         <!-- Q -->
         <item>QQ Input</item>
         <item>QQ</item>
@@ -342,6 +347,7 @@
         <item>Shunfeng</item>
         <item>Simcard</item>
         <item>Sogou Input</item>
+        <item>Skype</item>
         <item>Smartisan BBS</item>
         <item>Smartisan Launcher</item>
         <item>Sms</item>
@@ -367,7 +373,6 @@
         <item>Unionpay</item>
         <!-- V -->
         <item>Google Play</item>
-        <item>Via</item>
         <item>Video</item>
         <item>Voice Assistant</item>
         <!-- W -->
@@ -378,6 +383,7 @@
         <item>微视</item>
         <item>微云</item>
         <item>Xigua Video</item>
+        <item>Xigua Video(old)</item>
         <item>WPS</item>
         <item>王者荣耀</item>
         <!-- X -->
@@ -403,16 +409,9 @@
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>bmaps</item>
-        <item>btieba</item>
-        <item>bwenku</item>
-        <item>ebay</item>
-        <item>iflyinput</item>
-        <item>onedrive</item>
-        <item>qqbrowser</item>
-        <item>qqgame</item>
-        <item>uc</item>
-        <item>wallet</item>
+        <item>pixiv</item>
+        <item>fing</item>
+        <item>skype</item>
     </string-array>
 
 </resources>

@@ -131,6 +131,8 @@
         <item>电话</item>
         <item>拼多多</item>
         <item>Pinterest</item>
+        <item>Pixiv</item>
+        <item>Plex</item>
         <!-- Q -->
         <item>QQ输入法</item>
         <item>QQ</item>
@@ -150,6 +152,7 @@
         <item>顺丰速运</item>
         <item>Sim卡</item>
         <item>搜狗输入法</item>
+        <item>Skype</item>
         <item>锤子论坛</item>
         <item>锤子桌面</item>
         <item>短信</item>
@@ -175,7 +178,6 @@
         <item>云闪付</item>
         <!-- V -->
         <item>Google Play</item>
-        <item>Via</item>
         <item>视频</item>
         <item>语音助手</item>
         <!-- W -->
@@ -186,6 +188,7 @@
         <item>微视</item>
         <item>微云</item>
         <item>西瓜视频</item>
+        <item>西瓜视频（旧版）</item>
         <item>WPS</item>
         <item>王者荣耀</item>
         <!-- X -->

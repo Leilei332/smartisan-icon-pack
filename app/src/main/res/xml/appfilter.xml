@@ -95,7 +95,7 @@
         drawable="acfun"/>
     <item
         component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
-        drawable="adobe-reader"/>
+        drawable="adobe_reader"/>
     <item
         component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
         drawable="alipay"/>
@@ -149,7 +149,7 @@
         drawable="calculator"/>
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="calendar-google" />
+        drawable="calendar_google" />
     <item
         component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="calendar" />
@@ -242,13 +242,13 @@
         drawable="chrome"/>
     <item
         component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}"
-        drawable="chrome-beta"/>
+        drawable="chrome_beta"/>
     <item
         component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}"
         drawable="clock"/>
     <item
         component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
-        drawable="clock-google"/>
+        drawable="clock_google"/>
     <item
         component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}"
         drawable="compass"/>
@@ -260,7 +260,7 @@
         drawable="coolapk"/>
     <item
         component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
-        drawable="documentsui-huawei"/>
+        drawable="documentsui_huawei"/>
     <item
         component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}"
         drawable="documentsui"/>
@@ -398,10 +398,10 @@
         drawable="minecraft"/>
     <item
         component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}"
-        drawable="miui-shop"/>
+        drawable="miui_shop"/>
     <item
         component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
-        drawable="miui-smarthome"/>
+        drawable="miui_smarthome"/>
     <item
         component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
         drawable="msoffice"/>
@@ -527,7 +527,7 @@
         drawable="tax"/>
     <item
         component="ComponentInfo{com.tencent.edu/com.tencent.edu.module.SplashActivity}"
-        drawable="tedu"/>
+        drawable="tencent_edu"/>
     <item
         component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
         drawable="tiktok"/>

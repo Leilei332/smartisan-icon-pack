@@ -38,35 +38,6 @@
     <item drawable="settings" />
     <item drawable="sms" />
 
-    <categoty title="Games"/>
-    <item drawable="candycrash"/>
-    <item drawable="ingress"/>
-    <item drawable="minecraft"/>
-    <item drawable="wzry"/>
-
-    <category title="Google" />
-    <item drawable="chrome"/>
-    <item drawable="chrome_beta"/>
-    <item drawable="gboard"/>
-    <item drawable="calendar_google"/>
-    <item drawable="clock_google"/>
-    <item drawable="gdrive"/>
-    <item drawable="gearth"/>
-    <item drawable="gmail"/>
-    <item drawable="gmaps"/>
-    <item drawable="gmssettings"/>
-    <item drawable="google"/>
-    <item drawable="gpgames"/>
-    <item drawable="gphotos"/>
-    <item drawable="gpinyin"/>
-    <item drawable="vending"/>
-    <item drawable="gpmusic"/>
-    <item drawable="gtranslate"/>
-    <item drawable="gtts"/>
-    <item drawable="gvideos"/>
-    <item drawable="snapseed"/>
-
-
     <category title="All" /><!-- All icons here -->
     <item drawable="acfun"/>
     <item drawable="adobe_reader"/>
@@ -224,5 +195,7 @@
     <item drawable="yuansolar"/>
     <item drawable="yuantiku"/>
     <item drawable="zhihu"/>
+    <category title="Unused" />
+    <item drawable="wmvideo_old"/>
 
 </resources>
