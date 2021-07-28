@@ -287,10 +287,10 @@
         drawable="farmbank"/>
     <item
         component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
-        drawable="firefox"/>
+        drawable="firefox_old"/>
     <item
         component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}"
-        drawable="firefox"/>
+        drawable="firefox_old"/>
     <item
         component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}"
         drawable="fiveeight"/>

@@ -24,6 +24,7 @@
         <item>acfun</item>
         <item>adobe_reader</item>
         <item>alipay</item>
+        <item>ankidroid</item>
         <item>appmarket</item>
         <!-- B -->
         <item>baicizhan</item>
@@ -68,21 +69,23 @@
         <item>findmyphone_meizu</item>
         <item>fing</item>
         <item>firefox</item>
+        <item>firefox_old</item>
         <item>fiveeight</item>
         <item>flashlight</item>
         <item>fmradio</item>
         <!-- G -->
         <item>gallery</item>
+        <item>gamecenter</item>
         <item>gboard</item>
         <item>gdrive</item>
         <item>gearth</item>
         <item>geoweather</item>
         <item>gmail</item>
-        <item>gmaps</item>
+        <item>google_maps</item>
         <item>gmssettings</item>
         <item>google</item>
         <item>gpgames</item>
-        <item>gphotos</item>
+        <item>google_photos</item>
         <item>gpinyin</item>
         <item>gpmusic</item>
         <item>greenify</item>
@@ -93,7 +96,7 @@
         <item>hdocumentsui</item>
         <item>hkvideo</item>
         <!-- I -->
-        <item>iflyinput</item>
+        <item>ifly_input</item>
         <item>ims</item>
         <item>ingress</item>
         <item>instagram</item>
@@ -150,17 +153,17 @@
         <item>security</item>
         <item>settings</item>
         <item>sf</item>
-        <item>simcard</item>
-        <item>sinput</item>
         <item>skype</item>
         <item>smartisan_bbs</item>
         <item>smartlaunch</item>
         <item>sms</item>
         <item>snapseed</item>
-        <item>sogoumaps</item>
-        <item>sogousearch</item>
+        <item>sogou_input</item>
+        <item>sogou_maps</item>
+        <item>sogou_search</item>
         <item>spotify</item>
         <item>sspai</item>
+        <item>steam</item>
         <!-- T -->
         <item>taobao</item>
         <item>taptap</item>
@@ -219,6 +222,7 @@
         <item>Acfun</item>
         <item>Adobe Acrobat Reader</item>
         <item>Alipay</item>
+        <item>AnkiDroid</item>
         <item>Appmarket</item>
         <!-- B -->
         <item>Baicizhan</item>
@@ -263,11 +267,13 @@
         <item>Findmyphone(meizu)</item>
         <item>Fing</item>
         <item>Firefox</item>
+        <item>Firefox(Old)</item>
         <item>Fiveeight</item>
         <item>Flahlight</item>
         <item>Fmradio</item>
         <!-- G -->
         <item>Gallery</item>
+        <item>Game Center</item>
         <item>Gboard</item>
         <item>Google Drive</item>
         <item>Google Earth</item>
@@ -345,17 +351,17 @@
         <item>Security</item>
         <item>Settings</item>
         <item>Shunfeng</item>
-        <item>Simcard</item>
-        <item>Sogou Input</item>
         <item>Skype</item>
         <item>Smartisan BBS</item>
         <item>Smartisan Launcher</item>
         <item>Sms</item>
         <item>Snapseed</item>
+        <item>Sogou Input</item>
         <item>Sogou Maps</item>
         <item>Sogou Search</item>
         <item>Spotify</item>
         <item>Sspai</item>
+        <item>Steam</item>
         <!-- T -->
         <item>Taobao</item>
         <item>Taptap</item>
@@ -412,6 +418,9 @@
         <item>pixiv</item>
         <item>fing</item>
         <item>skype</item>
+        <item>steam</item>
+        <item>ankidroid</item>
+        <item>gamecenter</item>
     </string-array>
 
 </resources>

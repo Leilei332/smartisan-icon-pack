@@ -82,6 +82,7 @@
     <item drawable="fing"/>
     <item drawable="farmbank"/>
     <item drawable="firefox"/>
+    <item drawable="firefox_old"/>
     <item drawable="fiveeight"/>
     <item drawable="flashlight"/>
     <item drawable="fmradio"/>
@@ -150,7 +151,6 @@
     <item drawable="security"/>
     <item drawable="settings"/>
     <item drawable="sf"/>
-    <item drawable="simcard"/>
     <item drawable="sinput"/>
     <item drawable="smartlaunch"/>
     <item drawable="sms"/>
@@ -197,5 +197,5 @@
     <item drawable="zhihu"/>
     <category title="Unused" />
     <item drawable="wmvideo_old"/>
-
+    <item drawable="firefox"/>
 </resources>
