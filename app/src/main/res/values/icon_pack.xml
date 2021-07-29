@@ -43,6 +43,7 @@
         <!-- C -->
         <item>calendar</item>
         <item>calendar_google</item>
+        <item>calendar_htc</item>
         <item>calculator</item>
         <item>camera</item>
         <item>camera360</item>
@@ -241,6 +242,7 @@
         <!-- C -->
         <item>Calendar</item>
         <item>Google Calendar</item>
+        <item>Calendar(HTC)</item>
         <item>Calculator</item>
         <item>Camera</item>
         <item>Camera 360</item>

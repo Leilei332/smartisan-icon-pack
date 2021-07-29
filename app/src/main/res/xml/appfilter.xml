@@ -200,7 +200,7 @@
         drawable="calendar" />
     <item
         component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
-        drawable="calendar" />
+        drawable="calendar_htc" />
     <item
         component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}"
         drawable="calendar" />
