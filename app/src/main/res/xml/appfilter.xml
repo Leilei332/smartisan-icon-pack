@@ -259,6 +259,12 @@
         component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}"
         drawable="coolapk"/>
     <item
+        component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}"
+        drawable="dianping"/>
+    <item
+        component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}"
+        drawable="dingtalk"/>
+    <item
         component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
         drawable="documentsui_huawei"/>
     <item

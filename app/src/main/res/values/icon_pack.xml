@@ -37,7 +37,7 @@
         <item>bmaps</item>
         <item>browser</item>
         <item>btieba</item>
-        <item>buildbank</item>
+        <item>bankabc</item>
         <item>buttercamera</item>
         <item>bwenku</item>
         <!-- C -->
@@ -57,6 +57,8 @@
         <item>contacts</item>
         <item>coolapk</item>
         <!-- D -->
+        <item>dianping</item>
+        <item>dingtalk</item>
         <item>documentsui</item>
         <item>dropbox</item>
         <!-- E -->
@@ -256,6 +258,8 @@
         <item>Contacts</item>
         <item>Coolapk</item>
         <!-- D -->
+        <item>Dianping</item>
+        <item>Dingtalk</item>
         <item>Documentsui</item>
         <item>Dropbox</item>
         <!-- E -->
@@ -423,6 +427,8 @@
         <item>steam</item>
         <item>ankidroid</item>
         <item>gamecenter</item>
+        <item>dingtalk</item>
+        <item>dianping</item>
     </string-array>
 
 </resources>

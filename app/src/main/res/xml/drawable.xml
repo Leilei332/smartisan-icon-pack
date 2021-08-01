@@ -53,7 +53,7 @@
     <item drawable="bmaps"/>
     <item drawable="browser"/>
     <item drawable="btieba"/>
-    <item drawable="buildbank"/>
+    <item drawable="bankabc"/>
     <item drawable="buttercamera"/>
     <item drawable="bwenku"/>
     <item drawable="calculator"/>
@@ -70,6 +70,8 @@
     <item drawable="compass"/>
     <item drawable="contacts"/>
     <item drawable="coolapk"/>
+    <item drawable="dianping"/>
+    <item drawable="dingtalk"/>
     <item drawable="documentsui"/>
     <item drawable="documentsui_huawei"/>
     <item drawable="dropbox"/>
