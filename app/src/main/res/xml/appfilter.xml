@@ -496,11 +496,11 @@
         component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}"
         drawable="sf"/>
     <item
-        component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
-        drawable="simcard"/>
-    <item
         component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}"
-        drawable="sinput"/>
+        drawable="sogou_input"/>
+    <item
+        component="ComponentInfo{com.smartisan.bbs/com.smartisan.bbs.activity.MainActivity_}"
+        drawable="smartisan_bbs"/>
     <item
         component="ComponentInfo{com.smartisanos.home/com.smartisanos.home.Launcher}"
         drawable="smartlaunch"/>
@@ -518,10 +518,10 @@
         drawable="snapseed"/>
     <item
         component="ComponentInfo{com.sogou.map.android.maps/com.sogou.map.android.maps.SplashActivity}"
-        drawable="sogoumaps"/>
+        drawable="sogou_maps"/>
     <item
         component="ComponentInfo{com.sogou.activity.src/com.sogou.activity.src.SplashActivity}"
-        drawable="sogousearch"/>
+        drawable="sogou_search"/>
     <item
         component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
         drawable="taobao"/>
