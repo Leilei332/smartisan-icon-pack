@@ -100,6 +100,9 @@
         component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
         drawable="alipay"/>
     <item
+        component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}"
+        drawable="ankidroid"/>
+    <item
         component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}"
         drawable="appmarket"/>
     <item
@@ -120,6 +123,9 @@
     <item
         component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.app.MainActivity}"
         drawable="bing"/>
+    <item
+        component="ComponentInfo{bingdic.android.activity/bingdic.android.activity.SplashscreenActivity}"
+        drawable="bing_dict"/>
     <item
         component="ComponentInfo{com.baidu.input/com.baidu.input.ImeAppMainActivity}"
         drawable="binput"/>
@@ -293,13 +299,16 @@
         drawable="farmbank"/>
     <item
         component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
-        drawable="firefox_old"/>
+        drawable="firefox"/>
     <item
         component="ComponentInfo{cn.mozilla.firefox/cn.mozilla.firefox.App}"
-        drawable="firefox_old"/>
+        drawable="firefox"/>
     <item
         component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}"
         drawable="fiveeight"/>
+    <item
+        component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}"
+        drawable="flashlight"/>
     <item
         component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}"
         drawable="fmradio"/>
@@ -365,7 +374,7 @@
         drawable="hkvideo"/>
     <item
         component="ComponentInfo{com.iflytek.inputmethod/com.iflytek.inputmethod.LauncherActivity}"
-        drawable="iflyinput"/>
+        drawable="ifly_input"/>
     <item
         component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
         drawable="ims"/>
@@ -384,6 +393,9 @@
     <item
         component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}"
         drawable="jdjr"/>
+    <item
+        component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}"
+        drawable="kindle"/>
     <item
         component="ComponentInfo{com.amazon.kindlefc/com.amazon.kindle.UpgradePage}"
         drawable="kindlefc"/>
@@ -522,6 +534,9 @@
     <item
         component="ComponentInfo{com.sogou.activity.src/com.sogou.activity.src.SplashActivity}"
         drawable="sogou_search"/>
+    <item
+        component="ComponentInfo{com.valuesoftware.android.steam.community/com.valuesoftware.android.steam.community.activity.MainActivity}"
+        drawable="steam"/>
     <item
         component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
         drawable="taobao"/>

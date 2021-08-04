@@ -33,6 +33,7 @@
         <item>bilibili</item>
         <item>bilibiliblue</item>
         <item>bing</item>
+        <item>bing_dict</item>
         <item>baidu_input</item>
         <item>baidu_maps</item>
         <item>browser</item>
@@ -72,7 +73,7 @@
         <item>findmyphone_meizu</item>
         <item>fing</item>
         <item>firefox</item>
-        <item>firefox_old</item>
+        <item>firefox_1</item>
         <item>fiveeight</item>
         <item>flashlight</item>
         <item>fmradio</item>
@@ -96,7 +97,7 @@
         <item>gtts</item>
         <item>gvideos</item>
         <!-- H -->
-        <item>hdocumentsui</item>
+        <item>documentsui_huawei</item>
         <item>hkvideo</item>
         <!-- I -->
         <item>ifly_input</item>
@@ -109,6 +110,7 @@
         <item>jdjr</item>
         <item>jianshu</item>
         <!-- K -->
+        <item>kindle</item>
         <item>kindlefc</item>
         <item>kuaishou</item>
         <item>kuwomusic</item>
@@ -194,7 +196,7 @@
         <item>weishi</item>
         <item>weiyun</item>
         <item>wmvideo</item>
-        <item>wmvideo_old</item>
+        <item>wmvideo_1</item>
         <item>wps</item>
         <item>wzry</item>
         <!-- X -->
@@ -234,6 +236,7 @@
         <item>Bilibili</item>
         <item>Bilibili ~</item>
         <item>Bing</item>
+        <item>Bing Bictionary</item>
         <item>Baidu Input</item>
         <item>Baidu Maps</item>
         <item>Browser</item>
@@ -272,8 +275,8 @@
         <item>AGRICULTURAL BANK OF CHINA</item>
         <item>Findmyphone(meizu)</item>
         <item>Fing</item>
-        <item>Firefox</item>
         <item>Firefox(Old)</item>
+        <item>Firefox</item>
         <item>Fiveeight</item>
         <item>Flahlight</item>
         <item>Fmradio</item>
@@ -310,6 +313,7 @@
         <item>Jingdong Financial</item>
         <item>Jianshu</item>
         <!-- K -->
+        <item>Kindle</item>
         <item>Kindle Read</item>
         <item>Kuaishou</item>
         <item>Kugo Music</item>
@@ -421,14 +425,10 @@
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>pixiv</item>
-        <item>fing</item>
-        <item>skype</item>
         <item>steam</item>
+        <item>bing_dict</item>
+        <item>flashlight</item>
         <item>ankidroid</item>
-        <item>gamecenter</item>
-        <item>dingtalk</item>
-        <item>dianping</item>
     </string-array>
 
 </resources>

@@ -37,6 +37,9 @@
     <item drawable="security"/>
     <item drawable="settings" />
     <item drawable="sms" />
+    <category title="Alternative"/>
+    <item drawable="firefox_1"/>
+    <item drawable="wmvideo_1"/>
 
     <category title="All" /><!-- All icons here -->
     <item drawable="acfun"/>
@@ -49,6 +52,7 @@
     <item drawable="bilibili" />
     <item drawable="bilibiliblue"/>
     <item drawable="bing"/>
+    <item drawable="bing_dict"/>
     <item drawable="baidu_input"/>
     <item drawable="baidu_maps"/>
     <item drawable="browser"/>
@@ -183,6 +187,7 @@
     <item drawable="wechat"/>
     <item drawable="weibo"/>
     <item drawable="wmvideo"/>
+    <item drawable="wmvideo_1"/>
     <item drawable="wps"/>
     <item drawable="wzry"/>
     <item drawable="xiamifm"/>
@@ -199,7 +204,4 @@
     <item drawable="yuansolar"/>
     <item drawable="yuantiku"/>
     <item drawable="zhihu"/>
-    <category title="Unused" />
-    <item drawable="wmvideo_old"/>
-    <item drawable="firefox"/>
 </resources>
