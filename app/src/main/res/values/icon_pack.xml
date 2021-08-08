@@ -87,9 +87,11 @@
         <item>gmail</item>
         <item>google_maps</item>
         <item>gmssettings</item>
+        <item>gmssettings_1</item>
         <item>google</item>
         <item>gpgames</item>
         <item>google_photos</item>
+        <item>google_photos_1</item>
         <item>gpinyin</item>
         <item>gpmusic</item>
         <item>greenify</item>
@@ -290,9 +292,11 @@
         <item>Gmail</item>
         <item>Google Maps</item>
         <item>Google Play Service Settings</item>
+        <item>Google Play Service</item>
         <item>Google</item>
         <item>Google Play Games</item>
         <item>Google Photos</item>
+        <item>Google Photos(Old)</item>
         <item>Google Pinyin Input</item>
         <item>Google Play Music</item>
         <item>Greenify</item>

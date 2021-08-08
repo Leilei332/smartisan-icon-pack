@@ -335,7 +335,7 @@
         drawable="gmail"/>
     <item
         component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
-        drawable="gmaps"/>
+        drawable="google_maps"/>
     <item
         component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsLink}"
         drawable="gmssettings"/>
@@ -344,7 +344,7 @@
         drawable="google"/>
     <item
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
-        drawable="gphotos"/>
+        drawable="google_photos"/>
     <item
         component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
         drawable="gpgames"/>

@@ -88,22 +88,22 @@
     <item drawable="fing"/>
     <item drawable="farmbank"/>
     <item drawable="firefox"/>
-    <item drawable="firefox_old"/>
+    <item drawable="firefox_1"/>
     <item drawable="fiveeight"/>
     <item drawable="flashlight"/>
     <item drawable="fmradio"/>
     <item drawable="gallery"/>
     <item drawable="gboard"/>
-    <item drawable="gcalendar"/>
     <item drawable="gdrive"/>
     <item drawable="gearth"/>
     <item drawable="geoweather"/>
     <item drawable="gmail"/>
-    <item drawable="gmaps"/>
+    <item drawable="google_maps"/>
     <item drawable="gmssettings"/>
+    <item drawable="gmssettings_1"/>
     <item drawable="google"/>
     <item drawable="gpgames"/>
-    <item drawable="gphotos"/>
+    <item drawable="google_photos"/>
     <item drawable="gpinyin"/>
     <item drawable="vending"/>
     <item drawable="gpmusic"/>
@@ -124,7 +124,6 @@
     <item drawable="kuaishou"/>
     <item drawable="kugo"/>
     <item drawable="kuwomusic"/>
-    <item drawable="lightstart"/>
     <item drawable="magnifier"/>
     <item drawable="minecraft"/>
     <item drawable="missfresh"/>
@@ -159,6 +158,8 @@
     <item drawable="security"/>
     <item drawable="settings"/>
     <item drawable="sf"/>
+    <item drawable="skype"/>
+    <item drawable="smartisan_bbs"/>
     <item drawable="sogou_input"/>
     <item drawable="smartlaunch"/>
     <item drawable="sms"/>
@@ -203,5 +204,6 @@
     <item drawable="yuanfudao"/>
     <item drawable="yuansolar"/>
     <item drawable="yuantiku"/>
+    <item drawable="yyb"/>
     <item drawable="zhihu"/>
 </resources>
