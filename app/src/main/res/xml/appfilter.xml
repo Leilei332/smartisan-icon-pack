@@ -90,6 +90,7 @@
     <calendar
         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
         prefix="calendar_d" />-->
+    <!--TODO:backup_huawei,baidu_homework,candycrash,chromecast,fing,gamecenter,gboard,lock,missfresh,myscript_calc,nutstore,pixiv,simplenote,spotify,sspai,talkback,weiyun,zxing-->
     <item
         component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun"/>
@@ -140,7 +141,7 @@
         drawable="browser"/>
     <item
         component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}"
-        drawable="btieba"/>
+        drawable="baidu_tieba"/>
     <item
         component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
         drawable="bankabc"/>
@@ -149,7 +150,7 @@
         drawable="buttercamera"/>
     <item
         component="ComponentInfo{com.baidu.wenku/com.baidu.wenku.splash.view.activity.WelcomeActivity}"
-        drawable="bwenku"/>
+        drawable="baidu_wenku"/>
     <item
         component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
         drawable="calculator"/>

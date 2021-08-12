@@ -38,13 +38,17 @@
     <item drawable="settings" />
     <item drawable="sms" />
     <category title="Alternative"/>
+    <item drawable="alipay_1"/>
     <item drawable="firefox_1"/>
+    <item drawable="gmssettings_1"/>
+    <item drawable="google_photos_1"/>
     <item drawable="wmvideo_1"/>
 
     <category title="All" /><!-- All icons here -->
     <item drawable="acfun"/>
     <item drawable="adobe_reader"/>
     <item drawable="alipay" />
+    <item drawable="alipay_1"/>
     <item drawable="appmarket"/>
     <item drawable="baicizhan"/>
     <item drawable="baidu"/>
@@ -59,7 +63,7 @@
     <item drawable="baidu_tieba"/>
     <item drawable="bankabc"/>
     <item drawable="buttercamera"/>
-    <item drawable="bwenku"/>
+    <item drawable="baidu_wenku"/>
     <item drawable="calculator"/>
     <item drawable="calendar" />
     <item drawable="calendar_google"/>
@@ -104,6 +108,7 @@
     <item drawable="google"/>
     <item drawable="gpgames"/>
     <item drawable="google_photos"/>
+    <item drawable="google_photos_1"/>
     <item drawable="gpinyin"/>
     <item drawable="vending"/>
     <item drawable="gpmusic"/>

@@ -24,6 +24,7 @@
         <item>acfun</item>
         <item>adobe_reader</item>
         <item>alipay</item>
+        <item>alipay_1</item>
         <item>ankidroid</item>
         <item>appmarket</item>
         <!-- B -->
@@ -40,7 +41,7 @@
         <item>baidu_tieba</item>
         <item>bankabc</item>
         <item>buttercamera</item>
-        <item>bwenku</item>
+        <item>baidu_wenku</item>
         <!-- C -->
         <item>calendar</item>
         <item>calendar_google</item>
@@ -124,6 +125,7 @@
         <item>missfresh</item>
         <item>miui_shop</item>
         <item>miui_smarthome</item>
+        <item>miui_smarthome_1</item>
         <item>msoffice</item>
         <item>mt12306</item>
         <item>mtwaimai</item>
@@ -229,6 +231,7 @@
         <item>Acfun</item>
         <item>Adobe Acrobat Reader</item>
         <item>Alipay</item>
+        <item>Alipay Alt</item>
         <item>AnkiDroid</item>
         <item>Appmarket</item>
         <!-- B -->
@@ -329,6 +332,7 @@
         <item>Missfresh</item>
         <item>Miui Shop</item>
         <item>Miui Smarthome</item>
+        <item>Miui Smarthome Alt</item>
         <item>Microsoft Office</item>
         <item>Mobile Tickets 12306</item>
         <item>Meituanwaimai</item>
