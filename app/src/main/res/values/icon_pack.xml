@@ -221,6 +221,7 @@
         <item>yyb</item>
         <!-- Z -->
         <item>zhihu</item>
+        <item>zxing</item>
     </string-array>
 
     <!-- Corresponding app name list of all icons in /res/drawable-nodpi/ -->
@@ -428,6 +429,7 @@
         <item>Yingyongbao</item>
         <!-- Z -->
         <item>Zhihu</item>
+        <item>Barcode Scanner</item>
     </string-array>
 
     <!-- Latest icons (Make sure it's from the "icons" array) -->
