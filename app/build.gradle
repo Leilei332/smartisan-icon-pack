@@ -9,9 +9,9 @@ android {
         applicationId "com.billydiy.iconpack.smartisaniconpack"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 45
+        versionCode 46
         // Version name format: [version].[num_of_icons]
-        versionName "1.3.8 Indev"
+        versionName "1.3.9 Indev"
 
         resConfigs "en", "zh_cn"
     }
