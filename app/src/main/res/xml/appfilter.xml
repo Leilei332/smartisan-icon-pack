@@ -90,7 +90,7 @@
     <calendar
         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
         prefix="calendar_d" />-->
-    <!--TODO:backup_huawei,baidu_homework,candycrash,chromecast,fing,gamecenter,gboard,lock,missfresh,myscript_calc,nutstore,pixiv,simplenote,spotify,sspai,talkback,weiyun,zxing-->
+    <!--TODO:backup_huawei,baidu_homework,candycrash,chromecast,fing,gamecenter,gboard,lock,missfresh,myscript_calc,nutstore,pixiv,plex,simplenote,spotify,sspai,talkback,weiyun,zxing-->
     <item
         component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun"/>
