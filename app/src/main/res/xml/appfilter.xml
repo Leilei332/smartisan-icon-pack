@@ -34,36 +34,36 @@
     <!--<item
         component=":LAUNCHER_ACTION_APP_DRAWER_NIGHT"
         drawable="drawer_night" />-->
-    <!--<item
+    <item
         component=":BROWSER"
-        drawable="browser" />-->
-    <!--<item
+        drawable="browser" />
+    <item
         component=":CALCULATOR"
-        drawable="calculator" />-->
+        drawable="calculator" />
     <item
         component=":CALENDAR"
         drawable="calendar" />
-    <!--<item
+    <item
         component=":CAMERA"
-        drawable="camera" />-->
-    <!--<item
+        drawable="camera" />
+    <item
         component=":CLOCK"
-        drawable="clock" />-->
-    <!--<item
+        drawable="clock" />
+    <item
         component=":CONTACTS"
-        drawable="contacts" />-->
-    <!--<item
+        drawable="contacts" />
+    <item
         component=":EMAIL"
-        drawable="email" />-->
-    <!--<item
+        drawable="email" />
+    <item
         component=":GALLERY"
-        drawable="gallery" />-->
-    <!--<item
+        drawable="gallery" />
+    <item
         component=":PHONE"
-        drawable="phone" />-->
-    <!--<item
+        drawable="phone" />
+    <item
         component=":SMS"
-        drawable="sms" />-->
+        drawable="sms" />
 
     <!-- The whole 31 icons are required, or it doesn't work. -->
     <!--<calendar
@@ -90,7 +90,7 @@
     <calendar
         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}"
         prefix="calendar_d" />-->
-    <!--TODO:backup_huawei,baidu_homework,candycrash,chromecast,fing,gamecenter,gboard,lock,missfresh,myscript_calc,nutstore,pixiv,plex,simplenote,spotify,sspai,talkback,weiyun,zxing-->
+    <!--TODO:backup_huawei,candycrash,chromecast,fing,gboard,lock,missfresh,myscript_calc,plex,simplenote,spotify,sspai,talkback,weiyun,zxing-->
     <item
         component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.module.splash.SplashActivity}"
         drawable="acfun"/>
@@ -134,17 +134,59 @@
         component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}"
         drawable="baidu_maps"/>
     <item
-        component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}"
-        drawable="browser"/>
+        component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}"
+        drawable="browser" />
     <item
         component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}"
-        drawable="browser"/>
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.android.browser/com.google.android.apps.chrome.Main}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.android.browser/com.android.browser.PermissionCheckActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.android.browser/com.android.browser.permission.PermissionCheckActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{cn.nubia.browser/com.android.browser.BrowserLauncher}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.zui.browser/com.zui.browser.BrowserActivity}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.mokee.yubrowser/com.google.android.apps.chrome.Main}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{com.android.browser/com.UCMobile.main.UCMobile}"
+        drawable="browser" />
+    <item
+        component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}"
+        drawable="browser" />
     <item
         component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}"
         drawable="baidu_tieba"/>
     <item
         component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
         drawable="bankabc"/>
+    <item
+        component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}"
+        drawable="bankcmb"/>
     <item
         component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivity}"
         drawable="buttercamera"/>
@@ -207,7 +249,7 @@
         drawable="calendar" />
     <item
         component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
-        drawable="calendar_htc" />
+        drawable="calendar" />
     <item
         component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}"
         drawable="calendar" />
@@ -255,7 +297,7 @@
         drawable="clock"/>
     <item
         component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
-        drawable="clock_google"/>
+        drawable="clock"/>
     <item
         component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}"
         drawable="compass"/>
@@ -268,6 +310,12 @@
     <item
         component="ComponentInfo{com.dianping.v1/com.dianping.v1.NovaMainActivity}"
         drawable="dianping"/>
+    <item
+        component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}"
+        drawable="dianping" />
+    <item
+        component="ComponentInfo{com.dianping.v1/com.dianping.main.permission.PermissionActivity}"
+        drawable="dianping" />
     <item
         component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}"
         drawable="dingtalk"/>
@@ -319,6 +367,39 @@
     <item
         component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}"
         drawable="gallery"/>
+    <item
+        component="ComponentInfo{com.lenovo.gameworldphone/com.lenovo.game.phone.introduce.IntroduceActivtiy}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.letv.games/com.letv.games.activity.GuideActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.meizu.flyme.gamecenter/com.meizu.flyme.gamecenter.activity.GameMainActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.smartisanos.gamestore/com.smartisanos.gamestore.GameStoreActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.socogame.ppc/com.socogame.ppc.PlayPlusClientActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.vivo.game/com.vivo.game.ui.LogoActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.qiku.gamecenter/com.qiku.gamecenter.activity.main.FirstDialogActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity}"
+        drawable="gamecenter" />
+    <item
+        component="ComponentInfo{com.huawei.gamebox/com.huawei.gamebox.GameBoxActivity}"
+        drawable="gamecenter" />
     <item
         component="ComponentInfo{com.google.android.apps.inputmethod.latin.preference.SettingsActivity}"
         drawable="gboard"/>
@@ -395,6 +476,12 @@
         component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}"
         drawable="jdjr"/>
     <item
+        component="ComponentInfo{com.jianshu.haruki/com.baiji.jianshu.account.SplashScreenActivity}"
+        drawable="jianshu" />
+    <item
+        component="ComponentInfo{com.jianshu.haruki/com.baiji.jianshu.ui.splash.SplashScreenActivity}"
+        drawable="jianshu" />
+    <item
         component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}"
         drawable="kindle"/>
     <item
@@ -443,6 +530,9 @@
         component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}"
         drawable="note"/>
     <item
+        component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}"
+        drawable="nutstore" />
+    <item
         component="ComponentInfo{so.ofo.labofo/so.ofo.labofo.activities.EntryActivity}"
         drawable="ofo"/>
     <item
@@ -463,6 +553,12 @@
     <item
         component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}"
         drawable="pinterest"/>
+    <item
+        component="ComponentInfo{jp.pxv.android/jp.pxv.android.RootActivity}"
+        drawable="pixiv" />
+    <item
+        component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}"
+        drawable="pixiv" />
     <item
         component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}"
         drawable="qinput"/>
@@ -568,6 +664,15 @@
     <item
         component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
         drawable="tencent_video"/>
+    <item
+        component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+        drawable="twitter" />
+    <item
+        component="ComponentInfo{com.twitter.android/com.twitter.android.LoginActivity}"
+        drawable="twitter" />
+    <item
+        component="ComponentInfo{com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash}"
+        drawable="twitter" />
     <item
         component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}"
         drawable="uc"/>

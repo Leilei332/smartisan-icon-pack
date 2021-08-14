@@ -30,6 +30,7 @@
         <!-- B -->
         <item>baicizhan</item>
         <item>baidu</item>
+        <item>baidu_homework</item>
         <item>baidunetdisk</item>
         <item>bilibili</item>
         <item>bilibiliblue</item>
@@ -40,6 +41,7 @@
         <item>browser</item>
         <item>baidu_tieba</item>
         <item>bankabc</item>
+        <item>bankcmb</item>
         <item>buttercamera</item>
         <item>baidu_wenku</item>
         <!-- C -->
@@ -71,6 +73,7 @@
         <!-- F -->
         <item>facebook</item>
         <item>farmbank</item>
+        <item>feedly</item>
         <item>findmyphone_meizu</item>
         <item>fing</item>
         <item>firefox</item>
@@ -129,6 +132,7 @@
         <item>msoffice</item>
         <item>mt12306</item>
         <item>mtwaimai</item>
+        <item>mtwaimai_1</item>
         <item>mtxx</item>
         <item>music</item>
         <!-- N -->
@@ -238,6 +242,7 @@
         <!-- B -->
         <item>Baicizhan</item>
         <item>Baidu</item>
+        <item>Baidu Homework</item>
         <item>Baidunetdisk</item>
         <item>Bilibili</item>
         <item>Bilibili ~</item>
@@ -248,6 +253,7 @@
         <item>Browser</item>
         <item>Baidu Tieba</item>
         <item>China Construction Bank</item>
+        <item>CMB Bank</item>
         <item>Butter Camera</item>
         <item>Baidu Wenku</item>
         <!-- C -->
@@ -279,6 +285,7 @@
         <!-- F -->
         <item>Facebook</item>
         <item>AGRICULTURAL BANK OF CHINA</item>
+        <item>Feedly</item>
         <item>Findmyphone(meizu)</item>
         <item>Fing</item>
         <item>Firefox(Old)</item>
@@ -337,6 +344,7 @@
         <item>Microsoft Office</item>
         <item>Mobile Tickets 12306</item>
         <item>Meituanwaimai</item>
+        <item>Meituanwaimai Alt 1</item>
         <item>Meituxiuxiu</item>
         <item>Music</item>
         <!-- N -->
@@ -435,10 +443,8 @@
     <!-- Latest icons (Make sure it's from the "icons" array) -->
     <!-- Just KEEP IT EMPTY BUT DO NOT DELETE IT if you do not want to show additional icons of new version app. -->
     <string-array name="latest_icons" translatable="false">
-        <item>steam</item>
-        <item>bing_dict</item>
-        <item>flashlight</item>
-        <item>ankidroid</item>
+        <item>bankcmb</item>
+
     </string-array>
 
 </resources>
